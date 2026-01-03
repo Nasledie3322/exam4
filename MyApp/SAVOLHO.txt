@@ -1,0 +1,24 @@
+ORM  baroi kor bo baza bo vositai obekthoi C# be navistani SQL dasti.
+
+Dapper bibliotekai ast baroi kor bo baza ki SQLro xudt menavisi neki korro tez mekunad.
+
+Dapper .NET Core ro dastgiri mekunad?
+Bale dastgiri mekunad.
+
+Dapper C#-ro dastgiri mekunad?
+Bale baroi C# va .NET soxtagiansh.
+
+Dapper ORM ast?
+Dapper microORM ast. Yane ormi purra nest.
+SQLro xudt menavisi
+Natijahoi BD ba obekthoi C# tabdil meshavand
+
+Usulhoi asosi-i Dapper:
+
+Query<T>() — giriftani malumotho
+
+QuerySingle<T>() — yak hat
+
+Execute() — INSERT UPDATE DELETE
+
+QueryFirst<T>() — hati yakum
